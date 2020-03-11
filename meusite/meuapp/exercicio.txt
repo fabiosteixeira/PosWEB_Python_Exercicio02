@@ -1,0 +1,8 @@
+1 - Como organizar modelos em módulos?
+2 - Como criar modelos com herança? De quais tipos?
+3 - Como criar Enumeration types e usar como choices?
+4 - Queries: https://docs.djangoproject.com/en/3.0/topics/db/queries/
+5 - O que é, para quê serve e como usar um Proxy no modelo?
+6 - O que faz o método __str__()?
+7 - Quais e para que servem as propriedades adicionais dos tipos de relacionamento / mapeamento?
+
